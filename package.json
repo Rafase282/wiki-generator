@@ -1,6 +1,6 @@
 {
   "name": "wiki-generator",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "Wiki Pages Generator for Free Code Camp",
   "main": "n/a",
   "scripts": {
